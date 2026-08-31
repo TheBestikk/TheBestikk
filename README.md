@@ -30,8 +30,8 @@ I'm turning 14 soon and have already spent around **3 years** diving deep into w
 
 **Tools & Environment:**
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIzLTE1bC01LjUtNC43NUwuNSAxMy41bDE3IDQuNUwyMy0xNW1tLTUuNSAxLjVMNiAxMmwxMS41LTIuNVYxNSIvPjwvc3ZnPg==&logoColor=white" alt="VS Code Badge">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDEwIDIuMVYxMUgwVjMuNDQ5em0wIDguNTUxSDEwdjguOWwtMTAtMS4zNVYxMnptMTEtOS45NUwyNCAwVjExSDExVjIuMDV6bTAgOS45NUgyNFYyMmwtMTMtMS44NVYxMnoiLz48L3N2Zz4=" alt="Windows Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
