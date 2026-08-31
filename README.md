@@ -56,13 +56,10 @@ I'm turning 14 soon and have already spent around **3 years** diving deep into w
 
 Showcasing my activity and favorite languages!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheBestikk&show_icons=true&theme=vue-dark&hide_border=true&locale=en&rank_icon=github" alt="TheBestikk GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBestikk&layout=compact&langs_count=6&theme=vue-dark&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBestikk&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBestikk&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
