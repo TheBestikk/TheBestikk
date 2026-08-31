@@ -30,7 +30,7 @@ I'm turning 14 soon and have already spent around **3 years** diving deep into w
 
 **Tools & Environment:**
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=https://cdn.jsdelivr.net/gh/devicon/devicon/icons/vscode/vscode-original.svg&logoColor=white" alt="VS Code Badge">
+  <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNDQ5TDEwIDIuMVYxMUgwVjMuNDQ5em0wIDguNTUxSDEwdjguOWwtMTAtMS4zNVYxMnptMTEtOS45NUwyNCAwVjExSDExVjIuMDV6bTAgOS45NUgyNFYyMmwtMTMtMS44NVYxMnoiLz48L3N2Zz4=" alt="Windows Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
