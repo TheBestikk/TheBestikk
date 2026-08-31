@@ -57,8 +57,7 @@ I'm turning 14 soon and have already spent around **3 years** diving deep into w
 Showcasing my activity and favorite languages!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheBestikk&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBestikk&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBestikk&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
